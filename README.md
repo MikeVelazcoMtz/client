@@ -105,3 +105,10 @@ Quit the server with CONTROL-C.
 Ahora solamente queda mostrar el template [base.html](http://127.0.0.1:8000/).
 
 ![base.html](http://s30.postimg.org/3vrrlbrrl/Captura_de_pantalla_2015_05_11_a_las_13_19_29.png)
+
+>##Nota:
+>La implementación de [Bootstrap](http://getbootstrap.com) es realizada por medio del plugin [Django-bootstrap3](https://github.com/dyve/django-bootstrap3) la documentación esta ([aquí](http://django-bootstrap3.readthedocs.org/))
+>
+>El archivo requirements.txt incluye bpython para ayudar al momento de probar código.
+>
+>La versión de Django es 1.7.1.
