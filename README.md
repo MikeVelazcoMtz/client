@@ -1,9 +1,9 @@
 # Instalación del proyecto: Clientes
 
-La instalación inicia con la [clonación del proyecto](https://github.com/netwaremonitor/mlogpy.git)
+La instalación inicia con la [clonación del proyecto](https://github.com/MikeVelazcoMtz/client.git)
 
 ~~~
-git clone https://github.com/netwaremonitor/mlogpy.git
+git clone https://github.com/netwaremonitor/client.git
 ~~~
 
 Crear un virtualenv (desde virtualenvwrapper) llamado clientes:
@@ -102,6 +102,6 @@ Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ~~~
 
-Ahora solamente queda mostrar el template [base.html](http://127.0.0.1:8000).
+Ahora solamente queda mostrar el template [base.html](http://127.0.0.1:8000/).
 
 ![base.html](http://s30.postimg.org/3vrrlbrrl/Captura_de_pantalla_2015_05_11_a_las_13_19_29.png)
