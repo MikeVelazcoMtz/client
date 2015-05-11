@@ -1,0 +1,4 @@
+django==1.7.1
+mysql-python
+git+https://github.com/dyve/django-bootstrap3@master
+bpython
