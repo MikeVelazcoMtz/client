@@ -9,7 +9,7 @@ git clone https://github.com/MikeVelazcoMtz/client.git
 Crear un virtualenv (desde virtualenvwrapper) llamado clientes:
 
 ~~~
-mkvirtualenv clientes
+mkvirtualenv client
 ~~~
 
 Realizar la instalación de los paquetes adicionales dentro del repositorio:
