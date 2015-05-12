@@ -3,7 +3,7 @@
 La instalación inicia con la [clonación del proyecto](https://github.com/MikeVelazcoMtz/client.git)
 
 ~~~
-git clone https://github.com/netwaremonitor/client.git
+git clone https://github.com/MikeVelazcoMtz/client.git
 ~~~
 
 Crear un virtualenv (desde virtualenvwrapper) llamado clientes:
